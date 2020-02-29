@@ -1,0 +1,61 @@
+---Pytanie 1---
+Typ zmiennych sluzacy do zpisywania liczb calkowitych
+a.float
+b.int
+c.char
+d.string
+---Pytanie 2---
+Operator wejscia to
+a.>>
+b.<<
+c.if
+d.while
+---Pytanie 3---
+Biblioteka wyjscia/wejscia
+a.fstream
+b.windows.h
+c.cmath
+d.iostream
+---Pytanie 4---
+Pierwszy element tablicy ma numer
+a.0
+b.1
+c.10
+d.100
+---Pytanie 5---
+Operator sumy logicznej
+a.&&
+b.||
+c.!
+d.==
+---Pytanie 6---
+instrukcja przerwania
+a.continue
+b.case
+c.break
+d.return
+---Pytanie 7---
+instrukcja iteracyjna nie jest
+a.for
+b.while
+c.if
+d.do...while
+---Pytanie 8---
+funkcja wartosci losowej 
+a.rand()
+b.fabs()
+c.exp()
+d.sqrt()
+---Pytanie 9---
+Aby zapisac dane do pliku nalezy urzyc
+a.getline()
+b.get()
+c.ifstream
+d.ofstream
+---Pytanie 10---
+Dzielenie modulo
+a./
+b.+
+c.*
+d.%
+badabccadd
